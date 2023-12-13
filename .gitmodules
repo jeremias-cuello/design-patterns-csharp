@@ -1,0 +1,6 @@
+[submodule "Prototype"]
+	path = Prototype
+	url = ./Prototype/
+[submodule "Singleton"]
+	path = Singleton
+	url = ./Singleton/
