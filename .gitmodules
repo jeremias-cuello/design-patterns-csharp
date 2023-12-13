@@ -7,3 +7,6 @@
 [submodule "Factory"]
 	path = Factory
 	url = ./Factory/
+[submodule "Strategy"]
+	path = Strategy
+	url = ./Strategy/
