@@ -10,3 +10,9 @@
 [submodule "Strategy"]
 	path = Strategy
 	url = ./Strategy/
+[submodule "Mediator"]
+	path = Mediator
+	url = ./Mediator/
+[submodule "State"]
+	path = State
+	url = ./State/
