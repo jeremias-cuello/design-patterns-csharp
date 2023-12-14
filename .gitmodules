@@ -16,3 +16,6 @@
 [submodule "State"]
 	path = State
 	url = ./State/
+[submodule "Composite"]
+	path = Composite
+	url = ./Composite/
