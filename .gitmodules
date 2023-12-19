@@ -19,3 +19,6 @@
 [submodule "Composite"]
 	path = Composite
 	url = ./Composite/
+[submodule "DependecyInjection"]
+	path = DependecyInjection
+	url = ./DependecyInjection/
